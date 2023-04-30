@@ -163,7 +163,6 @@ BEGIN
 END; $$;
 
 
-ijnnnlknnç
 
 CREATE OR REPLACE PROCEDURE view_medical_history(patient_id_input INT)
 LANGUAGE plpgsql 
