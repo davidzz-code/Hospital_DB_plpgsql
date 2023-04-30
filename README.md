@@ -12,6 +12,7 @@ This is a database for a medical practice containing information on appointments
 2. Open pgAdmin and create a new connection to your local PostgreSQL server.
 3. Create a new database called `hospital_DB`.
 4. Right-click on the newly created database and select `Restore....`.
-5. Select the file `hospital_DB.backup` located in the db folder of the cloned or downloaded repository.
-6. Click the `Restore` button to restore the database.
+5. In 'filename' select the file `hospital_DB.backup` located in the db folder of the cloned or downloaded repository.
+6. Select `postgres` as Role name
+7. Click the `Restore` button to restore the database.
     
